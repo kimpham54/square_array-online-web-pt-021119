@@ -5,7 +5,7 @@ def square_array(array)
     new_array = []
     new_array.push(item)
     return item
-    puts item
+    puts "hey {#item}
     return new_array
     puts new_array
   end
